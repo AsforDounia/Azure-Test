@@ -27,3 +27,4 @@ jobs:
           app-name: 'mytesthtmlpage'
           slot-name: 'Production'
           package: '.'
+
